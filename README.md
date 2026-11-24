@@ -58,25 +58,25 @@ Critérios para aceitar uma fonte: ser recente (2025/2026), ter autor ou institu
 
 ## 4. Perguntas, respostas e fontes
 
-As respostas do notebook trazem números de citação clicáveis. Ao clicar, o notebook abre o trecho da fonte de onde a informação saiu.
+Com a diretriz ativa, fiz duas perguntas. As respostas do notebook trazem números de citação clicáveis. Ao clicar, o notebook abre o trecho da fonte de onde a informação saiu.
 
 ### Pergunta 1: Quais habilidades de quem vem de campo (CFTV, controle de acesso, redes) valem para suporte remoto, QA e automação?
 
-**Resposta (resumo):** a experiência de campo gera uma transferência técnica e cognitiva direta. Em vez de descartar a bagagem anterior, a migração consiste em reinterpretar habilidades físicas em camadas virtuais de software. Os pontos principais foram: (1) diagnóstico de causa raiz e raciocínio dedutivo, que vira leitura de logs e isolamento de bugs; (2) instrumentação e análise de sinais, como o uso de multímetros, osciloscópios e testadores de cabo.
+**Resposta (resumo):** o notebook respondeu como mentor de transição: vir da prática de campo traz um diferencial analítico e prático valorizado no mercado, e a transição consiste em reinterpretar competências físicas em camadas virtuais de software. As habilidades transferíveis apontadas foram: (1) diagnóstico de causa raiz e raciocínio dedutivo, que vira leitura de logs e isolamento de falhas; (2) instrumentação e análise de sinais, em que multímetros e osciloscópios dão lugar a inspetores de navegador, clientes HTTP e analisadores de tráfego; (3) redes e protocolos de comunicação (TCP/IP, DNS, HTTP, ping, traceroute); (4) lógica booleana e automação de hardware, que facilita o aprendizado de Python/TypeScript e SQL.
 
-**Fontes:** citações 1 a 6 no notebook. A citação 1 abre o relatório do Deep Research (segundo print).
+**Fontes:** as citações numeradas da resposta apontam para as fontes do notebook, como o relatório do Deep Research e os artigos sobre transição para TI.
 
 ![Pergunta 1 com citações](prints/chat-01-habilidades-de-campo.png)
 
-![Citação aberta mostrando o trecho da fonte](prints/chat-03-citacao-aberta.png)
-
 ### Pergunta 2: Como montar um currículo destacando a experiência de campo?
 
-**Resposta (resumo):** posicionar o histórico de campo não como atraso, mas como diferencial de rigor analítico e resolução prática de problemas. O notebook sugeriu: (1) um título profissional direto e alinhado ao cargo-alvo, evitando termos genéricos como "Técnico de Campo"; (2) um resumo profissional que conecte a trajetória de campo às novas qualificações; (3) personalizar o currículo para cada vaga com as palavras-chave do anúncio.
+**Resposta (resumo):** o notebook respondeu que não se deve omitir o histórico de campo por vergonha, pois ele é um diferencial de maturidade, rigor analítico e resolução de problemas. A estrutura sugerida foi: (1) título profissional direto e focado na vaga, evitando termos como "Em Transição" ou "Técnico de Campo"; (2) resumo profissional que conecte diagnósticos de precisão e manutenção preventiva a qualificações recentes (ISTQB CTFL v4.0, automação, SQL); (3) tradução das experiências anteriores para a terminologia de TI, por exemplo reescrevendo instalação e manutenção de equipamentos como testes funcionais de hardware, análise de causa raiz e laudos técnicos.
 
-**Fontes:** citações 1 a 4 no notebook.
+**Fontes:** no print da citação aberta (o último), o trecho vem do relatório do Deep Research, na seção "Estratégias de Posicionamento Mercadológico, Marca Pessoal e Empregabilidade".
 
 ![Pergunta 2 com citações](prints/chat-02-curriculo.png)
+
+![Citação aberta mostrando o trecho da fonte](prints/chat-03-citacao-aberta.png)
 
 ## 5. Materiais gerados no Estúdio
 
